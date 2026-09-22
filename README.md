@@ -14,4 +14,4 @@
 | Función llamada `calc()` | No comunica su propósito dentro del código | Se renombró a `calcularPromedio()` || Variables llamadas `data1`, `TempValue2`, `x` | No indican qué almacenan; obliga a leer todo el código para entenderlo | Se renombraron a `notas`, `promedio`, `numeroNotas` |
 | Parámetros llamados `a`, `b`, `c` | Mismo problema de legibilidad que las variables genéricas | Se renombraron a `nota1`, `nota2`, `nota3` |
 
-URL DE LA PAGINA: 
+URL DE LA PAGINA: https://tallercalcdepromedio.netlify.app
